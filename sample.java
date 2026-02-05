@@ -1,6 +1,5 @@
-class Application{
-  public static void main(String[] args) {
-    System.out.println("Hello from GitHub");
-  }
+public class sample {
+    public static void main(String[] args) {
+        System.out.println("Hello Jenkins");
+    }
 }
-
